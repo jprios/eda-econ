@@ -1,0 +1,9 @@
+[server]
+headless = false
+port = 10000
+
+[browser]
+serverAddress = "localhost"
+serverPort = 10000
+gatherUsageStats = false
+serverViewMode = "default"
