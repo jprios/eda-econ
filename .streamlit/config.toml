@@ -6,4 +6,3 @@ port = 10000
 serverAddress = "localhost"
 serverPort = 10000
 gatherUsageStats = false
-serverViewMode = "default"
